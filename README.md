@@ -15,7 +15,7 @@
 ## 💡 Development
 <div align="center">
 
-### 🌱 ミツログ
+### 🌱 ミツログ（サービス停止中）
 <img src="https://i.gyazo.com/9bfa0505cdf75a967be60ab5fc72ca9b.png" width="80%" />
 
 <p>
